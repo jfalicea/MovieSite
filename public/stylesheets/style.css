@@ -10,3 +10,7 @@ a {
 .poster img{
   max-width: 100%;
 }
+
+.navbar {
+  font-size : 100 rem;
+}
